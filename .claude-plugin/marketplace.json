@@ -1,0 +1,16 @@
+{
+  "name": "genesis",
+  "description": "The Genesis plugin for Claude Code: set up Genesis data agents and work with them.",
+  "owner": {
+    "name": "Genesis Computing",
+    "email": "support@genesiscomputing.ai",
+    "url": "https://genesiscomputing.com"
+  },
+  "plugins": [
+    {
+      "name": "genesis",
+      "source": "./",
+      "description": "Set up Genesis (Try Me cloud, Desktop, Snowflake or Databricks) and connect Claude Code to it, then work with Genesis data agents such as Eve."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "genesis-setup": {
+      "type": "http",
+      "url": "https://mcp.genesiscomputing.io/mcp"
+    }
+  }
+}

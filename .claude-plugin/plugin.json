@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "genesis",
+  "displayName": "Genesis",
+  "version": "0.1.0",
+  "description": "Set up Genesis data agents for you and connect Claude Code to them: adds the public Genesis setup MCP server and skills for setting up and working with Genesis.",
+  "author": {
+    "name": "Genesis Computing",
+    "email": "support@genesiscomputing.ai",
+    "url": "https://genesiscomputing.com"
+  },
+  "homepage": "https://genesiscomputing.com",
+  "repository": "https://github.com/genesis-computing-ai/genesis-plugin",
+  "license": "Apache-2.0",
+  "keywords": ["genesis", "data", "data-agents", "data-engineering", "snowflake", "databricks", "mcp"],
+  "icon": "./assets/genesis-logo.png",
+  "documentationUrl": "https://docs.genesiscomputing.com",
+  "supportUrl": "mailto:support@genesiscomputing.ai",
+  "privacyPolicyUrl": "https://genesiscomputing.com/privacy",
+  "termsOfServiceUrl": "https://genesiscomputing.com/termsofuse"
+}
